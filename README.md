@@ -1,16 +1,12 @@
 # TORO-SVG
 
-TORO-Server の公式 SVG アセットリポジトリです。
+TORO Server のロゴの画像 (SVG 形式) を置く場所です。
 
-ウェブサイトなどで使用されるベクターグラフィックスを管理しています。
+## 画像の一覧
 
-## 収録アセット
-
-| ファイル名 | プレビュー | 説明 |
+| ファイル名 | 見え方 | 説明 |
 | :--- | :---: | :--- |
-| `TORO.svg` | <img src="svg/TORO.svg" width="100"> | TORO-Server のメインロゴ |
-| `LGBTORO.svg` | <img src="svg/LGBTORO.svg" width="100"> | LGBTに配慮した TORO-Server のロゴ |
+| `TORO.svg` | <img src="svg/TORO.svg" width="100"> | TORO Server のロゴ |
+| `LGBTORO.svg` | <img src="svg/LGBTORO.svg" width="100"> | 虹色の配色にした TORO Server のロゴ |
 
-## ディレクトリ構成
-
-- `svg/`: すべての SVG ファイルが格納されています。
+画像はすべて `svg/` フォルダーにあります。
